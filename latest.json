@@ -1,0 +1,16 @@
+{
+  "version": "5.10.2",
+  "download_url": "https://github.com/moonina03/grace-business-automation-updates/releases/download/v5.10.2/grace_business_automation_v5102_image_fix.zip",
+  "release_url": "https://github.com/moonina03/grace-business-automation-updates/releases/tag/v5.10.2",
+  "sha256": "6656d307c996dcdaa0265cfd67bc042c9422b19179307c505b6ec3900424811a",
+  "published_at": "2026-09-20T22:57:50Z",
+  "mandatory": false,
+  "notes": [
+    "WordPress 자동 이미지 잘림 문제 수정",
+    "이미지 내부 한글 깨짐 및 오타 방지",
+    "대표 이미지와 본문 이미지를 텍스트 없는 안전한 일러스트로 변경",
+    "이미지 크기 및 파일 손상 자동 검사 추가",
+    "기존 WordPress A/B, Performance Center, Cost Saver, eBay 기능 유지",
+    "기존 설정과 데이터 유지"
+  ]
+}

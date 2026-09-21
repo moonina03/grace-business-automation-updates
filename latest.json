@@ -1,9 +1,9 @@
 {
-  "version": "5.10.3",
+  "version": "5.11.0",
   "channel": "stable",
   "release_date": "2026-09-21",
-  "minimum_supported_version": "5.9.0",
-  "download_url": "https://github.com/moonina03/grace-business-automation-updates/releases/download/v5.10.3/grace_business_automation_v5103_image_quality.zip",
-  "sha256": "b1909bb1f4715e8ea784d97012969059c3928709b6eabcda02b74b1d7e7be170",
-  "notes": "WordPress 자동 이미지 품질을 고도화하고 이미지 미리보기 및 사용자 이미지 선택 기능을 추가했습니다."
+  "minimum_supported_version": "5.10.3",
+  "download_url": "https://github.com/moonina03/grace-business-automation-updates/releases/download/v5.11.0/grace_business_automation_v511_autopilot.zip",
+  "sha256": "e2c736ad9aec3e49f3c1178002d1156d1bd732c1bffbb51a2be50e63030cbb28",
+  "notes": "WordPress A/B 독립 Autopilot, 이미지 품질 검증, 최종 발행 재검증, 오류·예산 Safety Limit을 추가했습니다."
 }

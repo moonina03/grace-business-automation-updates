@@ -1,9 +1,9 @@
 {
-  "version": "5.11.0",
+  "version": "5.11.1",
   "channel": "stable",
-  "release_date": "2026-09-21",
+  "release_date": "2026-09-24",
   "minimum_supported_version": "5.10.3",
-  "download_url": "https://github.com/moonina03/grace-business-automation-updates/releases/download/v5.11.0/grace_business_automation_v511_autopilot.zip",
-  "sha256": "e2c736ad9aec3e49f3c1178002d1156d1bd732c1bffbb51a2be50e63030cbb28",
-  "notes": "WordPress A/B 독립 Autopilot, 이미지 품질 검증, 최종 발행 재검증, 오류·예산 Safety Limit을 추가했습니다."
+  "download_url": "https://github.com/moonina03/grace-business-automation-updates/releases/download/v5.11.1/grace_business_automation_v5111_hotfix.zip",
+  "sha256": "33f18bab2950df25097430f19b2765a5df0e85e7c76b17c3b69e4697c9ca76cf",
+  "notes": "WordPress 중복 주제 사전 차단, 깨진 출처 표기 복구·차단, Rank Math 메타 설명 120~160자 자동 검증·보정을 추가했습니다."
 }
